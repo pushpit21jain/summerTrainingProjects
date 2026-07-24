@@ -1,0 +1,737 @@
+Age,Primary streaming service,Hours per day,While working,Instrumentalist,Composer,Exploratory,Foreign languages,BPM,Music effects,MusicLanguage,High_Anxiety
+18.0,Spotify,3.0,Yes,Yes,Yes,Yes,Yes,156.0,Improve,Punjabi,0
+63.0,Pandora,1.5,Yes,No,No,Yes,No,119.0,Improve,Tamil,1
+18.0,Spotify,4.0,No,No,No,No,Yes,132.0,No effect,Punjabi,1
+61.0,YouTube Music,2.5,Yes,No,Yes,Yes,Yes,84.0,Improve,English,1
+18.0,Spotify,4.0,Yes,No,No,Yes,No,107.0,Improve,Hindi,1
+18.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,86.0,Improve,Punjabi,1
+18.0,YouTube Music,3.0,Yes,Yes,No,Yes,Yes,66.0,Improve,Punjabi,0
+21.0,Spotify,1.0,Yes,No,No,Yes,Yes,95.0,Improve,Punjabi,0
+19.0,Spotify,6.0,Yes,No,No,No,No,94.0,Improve,Tamil,0
+18.0,I do not use a streaming service.,1.0,Yes,No,No,Yes,Yes,155.0,Improve,Hindi,0
+18.0,Spotify,3.0,Yes,Yes,No,Yes,No,,No effect,Hindi,1
+19.0,YouTube Music,8.0,Yes,No,No,Yes,No,125.0,Improve,Hindi,0
+,Spotify,3.0,Yes,No,No,Yes,Yes,,Improve,Telugu,1
+19.0,Spotify,2.0,Yes,No,No,Yes,No,88.0,Improve,Punjabi,0
+18.0,Spotify,4.0,Yes,Yes,No,Yes,Yes,148.0,Improve,Telugu,0
+17.0,Spotify,2.0,No,No,No,Yes,Yes,,Worsen,Telugu,1
+16.0,Spotify,8.0,Yes,No,No,Yes,Yes,103.0,Improve,Telugu,1
+16.0,Spotify,12.0,Yes,No,Yes,Yes,Yes,120.0,Improve,Hindi,0
+17.0,Spotify,24.0,Yes,No,No,Yes,No,99.0,Improve,Punjabi,1
+15.0,Spotify,3.0,No,No,No,No,No,120.0,Improve,Telugu,1
+15.0,Apple Music,8.0,Yes,No,No,Yes,Yes,120.0,Improve,Telugu,0
+17.0,Spotify,4.0,Yes,No,No,Yes,No,125.0,Improve,Hindi,1
+19.0,I do not use a streaming service.,5.0,Yes,No,No,Yes,Yes,118.0,Improve,English,0
+18.0,Spotify,2.0,Yes,No,No,No,Yes,79.0,No effect,Hindi,0
+16.0,Other streaming service,3.0,Yes,Yes,Yes,Yes,Yes,84.0,Improve,Hindi,1
+18.0,Spotify,2.0,No,No,No,Yes,Yes,169.0,Improve,Hindi,1
+14.0,Spotify,12.0,Yes,Yes,Yes,Yes,Yes,136.0,Improve,Hindi,1
+18.0,YouTube Music,6.0,Yes,Yes,Yes,No,Yes,101.0,Improve,Hindi,0
+17.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,126.0,Improve,Punjabi,0
+17.0,Apple Music,1.0,Yes,No,No,Yes,No,183.0,Improve,Telugu,1
+20.0,Apple Music,5.0,Yes,Yes,No,Yes,Yes,,Improve,Hindi,1
+19.0,Spotify,2.0,Yes,No,No,No,No,120.0,No effect,Telugu,0
+19.0,Spotify,6.0,Yes,Yes,No,Yes,Yes,,Improve,Hindi,1
+17.0,Spotify,4.0,No,No,No,Yes,Yes,142.0,Improve,Punjabi,0
+16.0,Spotify,1.0,Yes,No,No,No,No,75.0,No effect,Hindi,0
+18.0,Spotify,5.0,Yes,Yes,No,Yes,No,120.0,Improve,English,0
+21.0,Spotify,4.0,Yes,No,No,No,Yes,89.0,Improve,Hindi,0
+17.0,Other streaming service,3.0,Yes,No,No,Yes,No,,No effect,Punjabi,0
+26.0,Other streaming service,0.5,No,No,No,No,Yes,140.0,No effect,Hindi,1
+20.0,Spotify,4.0,Yes,No,No,Yes,No,161.0,Improve,Punjabi,1
+23.0,YouTube Music,2.0,Yes,Yes,Yes,Yes,No,80.0,Improve,Punjabi,0
+18.0,Spotify,5.0,Yes,Yes,No,Yes,No,130.0,Improve,Hindi,1
+37.0,YouTube Music,0.25,No,No,No,Yes,No,147.0,No effect,Punjabi,0
+17.0,Spotify,3.0,Yes,No,No,Yes,Yes,120.0,Improve,Hindi,0
+18.0,Spotify,4.0,Yes,No,No,Yes,Yes,77.0,No effect,Hindi,0
+17.0,I do not use a streaming service.,1.0,Yes,Yes,Yes,No,No,118.0,Improve,Hindi,1
+36.0,Spotify,1.0,No,Yes,Yes,No,No,132.0,No effect,Punjabi,1
+24.0,Spotify,3.0,Yes,No,No,Yes,Yes,115.0,Improve,Telugu,1
+18.0,Spotify,5.0,Yes,No,Yes,Yes,Yes,157.0,Improve,Hindi,1
+19.0,Spotify,3.0,Yes,No,No,No,Yes,90.0,No effect,English,1
+17.0,Apple Music,2.0,Yes,Yes,No,Yes,No,128.0,Improve,Hindi,0
+16.0,Spotify,6.0,Yes,No,No,Yes,Yes,169.0,Improve,Hindi,1
+23.0,Apple Music,1.0,No,No,No,No,Yes,140.0,No effect,Telugu,1
+23.0,Spotify,12.0,Yes,No,No,Yes,Yes,96.0,No effect,Tamil,0
+22.0,Spotify,4.0,Yes,No,Yes,Yes,Yes,126.0,Improve,English,1
+16.0,Apple Music,2.0,Yes,Yes,No,Yes,No,,Improve,Telugu,0
+18.0,Spotify,6.0,Yes,No,No,Yes,No,91.0,No effect,Hindi,1
+42.0,I do not use a streaming service.,0.0,Yes,No,No,No,Yes,,No effect,Punjabi,1
+23.0,Spotify,7.0,Yes,No,No,Yes,Yes,55.0,Improve,Hindi,0
+23.0,I do not use a streaming service.,1.0,Yes,Yes,No,No,No,85.0,Improve,Hindi,1
+19.0,YouTube Music,1.0,No,Yes,No,Yes,Yes,160.0,Improve,Tamil,1
+22.0,Pandora,1.0,No,Yes,No,Yes,No,108.0,Improve,Telugu,1
+15.0,Other streaming service,2.0,Yes,Yes,No,No,No,156.0,Improve,Tamil,0
+25.0,Spotify,2.0,No,No,No,No,Yes,170.0,No effect,Punjabi,0
+32.0,Spotify,5.0,Yes,No,No,No,Yes,91.0,Worsen,Hindi,1
+36.0,Spotify,6.0,Yes,No,No,Yes,Yes,174.0,Improve,Telugu,0
+24.0,Spotify,3.0,No,No,No,Yes,Yes,130.0,No effect,Hindi,0
+29.0,Spotify,4.0,No,No,No,Yes,No,140.0,Improve,Hindi,1
+41.0,Apple Music,3.0,Yes,Yes,Yes,Yes,Yes,130.0,Improve,English,1
+36.0,I do not use a streaming service.,2.0,Yes,Yes,Yes,Yes,No,127.0,Improve,Hindi,1
+19.0,YouTube Music,3.0,Yes,No,No,Yes,No,160.0,Improve,English,1
+31.0,Spotify,2.0,Yes,No,No,Yes,Yes,,No effect,Hindi,1
+16.0,Spotify,4.0,Yes,No,No,No,Yes,,Improve,English,1
+26.0,Spotify,2.0,Yes,Yes,Yes,Yes,Yes,165.0,Improve,Hindi,0
+22.0,Apple Music,0.5,No,No,No,No,No,113.0,No effect,Hindi,1
+16.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,167.0,Improve,Tamil,1
+17.0,Spotify,5.0,Yes,No,No,Yes,Yes,95.0,Improve,Punjabi,0
+19.0,Spotify,10.0,Yes,No,No,Yes,Yes,110.0,Improve,Hindi,1
+18.0,YouTube Music,2.0,No,No,No,No,Yes,150.0,Improve,Hindi,1
+18.0,YouTube Music,4.0,Yes,No,No,Yes,Yes,93.0,Improve,Hindi,0
+19.0,Spotify,5.0,No,Yes,Yes,Yes,Yes,90.0,Improve,Telugu,1
+19.0,Spotify,3.0,Yes,No,No,Yes,No,118.0,Improve,Telugu,0
+22.0,Spotify,2.0,Yes,No,No,Yes,Yes,126.0,No effect,Hindi,1
+16.0,Spotify,2.5,Yes,Yes,Yes,Yes,Yes,103.0,Improve,Punjabi,0
+19.0,Spotify,3.0,Yes,No,No,Yes,Yes,77.0,Improve,Punjabi,0
+37.0,Spotify,1.0,Yes,No,No,No,No,115.0,No effect,English,1
+14.0,Spotify,7.0,Yes,Yes,No,No,No,110.0,Improve,English,0
+33.0,I do not use a streaming service.,1.0,No,No,No,No,Yes,,Improve,Hindi,0
+26.0,Spotify,1.0,No,No,No,No,No,113.0,No effect,Telugu,0
+32.0,Spotify,3.0,Yes,No,No,No,No,157.0,No effect,Hindi,0
+30.0,Spotify,5.0,Yes,Yes,No,Yes,No,160.0,No effect,Hindi,1
+43.0,I do not use a streaming service.,6.0,Yes,Yes,Yes,Yes,Yes,109.0,No effect,Telugu,0
+24.0,Spotify,4.0,Yes,No,No,Yes,Yes,175.0,Improve,Hindi,0
+36.0,YouTube Music,1.0,Yes,No,No,Yes,No,110.0,Improve,Telugu,0
+19.0,YouTube Music,4.0,Yes,No,No,Yes,No,162.0,Improve,Punjabi,1
+22.0,Spotify,10.0,Yes,No,No,Yes,Yes,189.0,Improve,Hindi,1
+20.0,Spotify,3.0,No,No,Yes,Yes,Yes,121.0,Improve,Punjabi,0
+31.0,Spotify,2.0,No,No,No,Yes,No,200.0,Improve,Hindi,1
+19.0,Spotify,4.0,Yes,No,No,Yes,Yes,105.0,Improve,English,0
+15.0,Spotify,8.0,Yes,No,No,No,No,193.0,Improve,Telugu,1
+18.0,Spotify,2.0,No,Yes,Yes,Yes,Yes,149.0,Improve,Hindi,0
+25.0,I do not use a streaming service.,0.5,No,Yes,No,No,No,140.0,Improve,English,0
+17.0,Apple Music,5.0,Yes,No,No,Yes,No,134.0,No effect,Hindi,1
+28.0,YouTube Music,1.0,No,No,No,Yes,No,120.0,No effect,English,0
+20.0,Spotify,3.0,Yes,No,No,Yes,Yes,170.0,Improve,Telugu,0
+21.0,YouTube Music,2.0,Yes,Yes,No,Yes,Yes,107.0,No effect,Tamil,1
+41.0,Spotify,3.0,Yes,No,No,No,Yes,113.0,No effect,English,1
+20.0,Spotify,2.0,Yes,Yes,No,Yes,No,126.0,Improve,English,1
+34.0,Other streaming service,4.0,Yes,No,No,Yes,Yes,161.0,No effect,Punjabi,0
+21.0,YouTube Music,3.0,Yes,No,Yes,Yes,No,,Improve,Telugu,1
+23.0,Spotify,2.0,Yes,No,No,Yes,Yes,100.0,Improve,English,0
+16.0,Spotify,3.0,No,No,No,No,No,140.0,Improve,Hindi,1
+19.0,YouTube Music,4.0,Yes,No,No,Yes,No,156.0,Improve,Hindi,1
+22.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,98.0,Improve,English,1
+19.0,Spotify,8.0,Yes,No,No,Yes,Yes,100.0,Improve,Telugu,0
+23.0,Spotify,4.0,Yes,No,No,Yes,Yes,78.0,Improve,Telugu,1
+23.0,Spotify,2.0,No,Yes,No,No,Yes,117.0,Improve,Punjabi,1
+22.0,Spotify,1.0,No,No,Yes,Yes,No,128.0,Improve,Hindi,0
+17.0,Spotify,3.0,Yes,No,No,Yes,No,130.0,Improve,Punjabi,1
+28.0,Spotify,0.5,No,No,No,Yes,No,130.0,Improve,English,0
+23.0,Spotify,2.0,No,No,No,Yes,Yes,,No effect,Telugu,1
+19.0,Apple Music,3.0,Yes,No,No,Yes,Yes,126.0,Improve,Punjabi,0
+17.0,Spotify,2.0,Yes,Yes,Yes,Yes,Yes,122.0,Improve,Hindi,1
+21.0,YouTube Music,1.0,No,No,No,Yes,No,179.0,No effect,Hindi,0
+29.0,Other streaming service,5.0,Yes,No,No,Yes,Yes,200.0,Improve,Telugu,1
+22.0,Spotify,10.0,No,Yes,Yes,No,Yes,128.0,Improve,Telugu,0
+18.0,Spotify,4.0,Yes,Yes,Yes,Yes,Yes,130.0,Improve,Telugu,0
+13.0,Spotify,2.0,Yes,Yes,Yes,Yes,No,120.0,Worsen,Punjabi,1
+24.0,Spotify,1.0,No,No,No,Yes,No,86.0,Improve,Punjabi,0
+35.0,Spotify,6.0,Yes,No,No,Yes,Yes,166.0,No effect,Telugu,0
+29.0,YouTube Music,1.0,Yes,Yes,No,Yes,No,110.0,Improve,Hindi,0
+28.0,Spotify,6.0,Yes,No,No,No,No,144.0,Improve,Hindi,1
+32.0,Spotify,7.0,Yes,No,No,Yes,Yes,120.0,Improve,Punjabi,1
+32.0,Other streaming service,1.0,No,No,No,Yes,No,120.0,No effect,Punjabi,0
+21.0,Spotify,3.0,Yes,Yes,No,Yes,No,160.0,Improve,Punjabi,1
+18.0,Spotify,2.0,Yes,Yes,No,No,Yes,101.0,Improve,Punjabi,1
+19.0,Spotify,3.0,Yes,Yes,No,Yes,No,122.0,Improve,Punjabi,0
+18.0,Apple Music,2.0,Yes,Yes,No,Yes,Yes,,Improve,English,0
+16.0,YouTube Music,3.0,Yes,No,Yes,No,No,,No effect,Punjabi,0
+25.0,Spotify,1.5,Yes,No,No,No,No,61.0,Improve,Hindi,0
+17.0,Spotify,4.0,Yes,No,No,Yes,Yes,79.0,Improve,Hindi,0
+16.0,Spotify,2.0,Yes,No,No,Yes,Yes,126.0,No effect,Hindi,0
+27.0,Spotify,10.0,Yes,No,No,Yes,Yes,185.0,Improve,Punjabi,0
+53.0,Spotify,7.0,Yes,No,No,Yes,Yes,92.0,Improve,Tamil,0
+25.0,Spotify,1.0,Yes,No,No,No,No,107.0,Improve,Hindi,0
+34.0,Spotify,2.0,No,No,No,No,No,120.0,Improve,Hindi,0
+22.0,Other streaming service,6.0,Yes,Yes,Yes,Yes,Yes,140.0,Improve,Hindi,1
+17.0,Spotify,2.0,Yes,Yes,Yes,Yes,No,94.0,Improve,Punjabi,0
+26.0,Spotify,3.0,Yes,Yes,No,Yes,No,160.0,Improve,Hindi,1
+19.0,Spotify,8.0,Yes,No,No,Yes,No,174.0,Improve,Tamil,0
+21.0,Spotify,3.0,Yes,No,No,Yes,Yes,136.0,Worsen,Tamil,0
+32.0,Spotify,3.0,Yes,Yes,Yes,Yes,Yes,144.0,Improve,Punjabi,0
+21.0,I do not use a streaming service.,3.0,Yes,No,No,No,No,77.0,No effect,Punjabi,1
+25.0,Spotify,2.0,No,Yes,No,No,No,120.0,Improve,Telugu,1
+26.0,Spotify,1.0,No,No,No,No,No,,No effect,Tamil,1
+21.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,,No effect,Hindi,0
+17.0,Spotify,2.0,Yes,Yes,No,No,Yes,,Improve,Punjabi,0
+28.0,I do not use a streaming service.,4.0,Yes,No,No,Yes,Yes,194.0,Improve,English,0
+41.0,YouTube Music,4.0,Yes,No,No,Yes,No,60.0,Improve,Tamil,1
+18.0,Spotify,1.0,Yes,Yes,No,Yes,Yes,190.0,Improve,Tamil,0
+22.0,Spotify,2.0,No,No,No,No,Yes,87.0,No effect,English,0
+18.0,Other streaming service,2.0,Yes,No,No,No,Yes,122.0,Improve,Hindi,0
+49.0,Other streaming service,1.0,Yes,No,No,Yes,No,156.0,Improve,Hindi,1
+21.0,Spotify,3.0,Yes,Yes,Yes,Yes,No,150.0,No effect,Hindi,0
+27.0,Spotify,10.0,Yes,No,No,Yes,Yes,194.0,Improve,Hindi,1
+19.0,Spotify,1.0,No,No,Yes,Yes,Yes,160.0,No effect,English,0
+27.0,Spotify,3.0,Yes,No,No,Yes,Yes,171.0,Improve,English,0
+27.0,Spotify,1.5,Yes,No,No,No,No,95.0,Improve,Hindi,0
+19.0,Spotify,3.0,Yes,Yes,No,Yes,Yes,114.0,Improve,Hindi,1
+42.0,YouTube Music,2.5,Yes,Yes,No,No,Yes,148.0,Improve,Tamil,1
+60.0,Pandora,2.0,Yes,No,No,No,No,119.0,Improve,Telugu,0
+19.0,YouTube Music,5.0,Yes,No,No,No,Yes,136.0,No effect,Hindi,0
+20.0,Apple Music,2.0,Yes,No,No,Yes,No,141.0,Improve,Tamil,0
+28.0,Spotify,2.0,No,No,Yes,No,No,146.0,Improve,Punjabi,0
+16.0,I do not use a streaming service.,2.0,No,Yes,Yes,Yes,No,,No effect,Hindi,0
+18.0,Spotify,2.0,Yes,No,No,No,Yes,164.0,No effect,Tamil,0
+34.0,Spotify,1.0,Yes,No,No,Yes,Yes,,No effect,English,0
+18.0,YouTube Music,1.5,Yes,No,No,Yes,No,,Improve,English,1
+21.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,128.0,Improve,English,1
+38.0,Spotify,0.5,No,No,No,Yes,Yes,,Improve,Tamil,0
+17.0,Spotify,2.0,Yes,No,No,No,Yes,,Improve,Punjabi,1
+35.0,Other streaming service,0.5,No,No,No,No,No,,No effect,Hindi,1
+21.0,I do not use a streaming service.,2.0,Yes,No,No,No,Yes,101.0,Improve,Hindi,1
+25.0,Apple Music,2.5,Yes,No,No,No,No,,Improve,Punjabi,1
+18.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,98.0,Improve,Hindi,1
+16.0,Apple Music,2.0,No,No,No,Yes,No,145.0,Improve,Hindi,1
+19.0,Spotify,1.0,Yes,No,No,Yes,Yes,94.0,Improve,English,1
+31.0,Spotify,4.0,Yes,Yes,No,No,Yes,103.0,Improve,Punjabi,0
+26.0,Spotify,5.0,Yes,No,No,No,No,,No effect,Telugu,0
+16.0,Spotify,2.0,Yes,Yes,Yes,No,No,112.0,Improve,Punjabi,1
+26.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,,Improve,Punjabi,1
+17.0,Spotify,2.0,Yes,No,No,Yes,Yes,118.0,Improve,Tamil,0
+22.0,Spotify,1.0,Yes,Yes,No,Yes,Yes,,Improve,Telugu,0
+20.0,Apple Music,4.0,Yes,No,No,Yes,Yes,113.0,Improve,Hindi,1
+30.0,Spotify,1.0,No,Yes,No,Yes,No,162.0,Improve,Tamil,1
+26.0,Other streaming service,4.0,Yes,No,No,No,No,,Improve,Punjabi,1
+19.0,Spotify,5.0,Yes,No,No,Yes,Yes,111.0,No effect,Hindi,1
+21.0,Spotify,5.0,Yes,No,No,Yes,No,85.0,Improve,Hindi,1
+33.0,Spotify,7.0,Yes,No,No,Yes,Yes,134.0,Improve,Hindi,1
+28.0,YouTube Music,2.0,Yes,No,No,Yes,No,172.0,Improve,Tamil,1
+25.0,Spotify,3.0,Yes,No,No,Yes,Yes,180.0,Improve,Hindi,1
+22.0,YouTube Music,2.0,Yes,No,No,No,No,120.0,Improve,Hindi,1
+19.0,Spotify,3.0,Yes,No,Yes,Yes,Yes,76.0,Improve,English,1
+44.0,Other streaming service,3.0,Yes,No,No,Yes,Yes,130.0,Improve,Telugu,1
+22.0,Spotify,3.0,Yes,No,No,No,No,,Improve,English,1
+26.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,109.0,Improve,Hindi,1
+23.0,I do not use a streaming service.,6.0,Yes,No,Yes,No,Yes,96.0,Improve,Hindi,0
+17.0,Spotify,2.0,No,No,No,No,Yes,148.0,Improve,Punjabi,1
+42.0,YouTube Music,2.0,No,No,No,Yes,No,,Improve,Hindi,1
+30.0,Spotify,1.0,No,Yes,No,Yes,No,129.0,Improve,English,0
+35.0,Spotify,1.0,Yes,No,No,Yes,Yes,81.0,No effect,Tamil,0
+20.0,Spotify,3.0,No,No,No,Yes,No,136.0,Improve,Hindi,1
+18.0,Spotify,3.0,Yes,No,No,Yes,Yes,155.0,Improve,Hindi,1
+21.0,Spotify,1.0,No,No,No,No,Yes,,No effect,Hindi,0
+19.0,Spotify,6.0,Yes,No,No,Yes,Yes,52.0,Improve,Hindi,0
+37.0,Spotify,4.0,Yes,No,No,Yes,No,97.0,Improve,Hindi,1
+31.0,Spotify,2.0,Yes,No,No,Yes,Yes,92.0,Improve,Telugu,1
+29.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,100.0,Improve,Tamil,0
+20.0,Spotify,3.0,Yes,No,No,Yes,Yes,120.0,Improve,Hindi,1
+36.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,No,Yes,143.0,No effect,English,1
+18.0,Spotify,3.0,Yes,Yes,No,Yes,No,118.0,Improve,Telugu,1
+18.0,Spotify,2.0,Yes,No,No,Yes,Yes,130.0,Improve,Hindi,0
+25.0,Spotify,7.0,Yes,No,No,No,Yes,120.0,Improve,Hindi,0
+18.0,YouTube Music,12.0,Yes,No,No,Yes,Yes,126.0,Improve,Punjabi,0
+31.0,YouTube Music,9.0,Yes,No,No,Yes,Yes,158.0,Improve,Tamil,1
+17.0,Spotify,2.0,Yes,No,No,Yes,Yes,160.0,Improve,Punjabi,0
+21.0,Spotify,1.0,Yes,No,No,No,Yes,,Improve,Punjabi,1
+30.0,Other streaming service,1.0,No,No,No,No,No,119.0,Improve,Telugu,1
+40.0,Apple Music,2.0,Yes,No,No,Yes,Yes,120.0,No effect,Punjabi,0
+64.0,I do not use a streaming service.,4.0,Yes,No,No,No,No,200.0,Improve,Punjabi,0
+14.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,136.0,Improve,Hindi,1
+26.0,YouTube Music,6.0,Yes,No,No,Yes,No,104.0,No effect,English,0
+35.0,Spotify,4.0,Yes,Yes,Yes,Yes,Yes,90.0,Improve,Tamil,1
+33.0,Other streaming service,1.0,No,No,No,No,No,120.0,No effect,Punjabi,0
+30.0,Spotify,6.0,Yes,No,No,Yes,Yes,89.0,No effect,Hindi,1
+31.0,Spotify,2.0,No,Yes,No,Yes,Yes,95.0,Improve,English,1
+27.0,Spotify,5.0,Yes,No,Yes,Yes,Yes,140.0,Improve,Tamil,0
+53.0,I do not use a streaming service.,1.5,No,No,No,Yes,Yes,92.0,No effect,Punjabi,0
+23.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,120.0,Improve,English,0
+25.0,Spotify,2.0,Yes,No,Yes,Yes,No,128.0,Improve,Hindi,0
+16.0,Apple Music,4.0,Yes,Yes,No,Yes,Yes,140.0,Improve,Telugu,1
+18.0,Spotify,2.0,Yes,Yes,Yes,Yes,No,,Improve,Hindi,0
+29.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,,Improve,Hindi,1
+31.0,YouTube Music,6.0,Yes,No,No,Yes,Yes,136.0,No effect,Punjabi,1
+31.0,Spotify,1.0,No,No,No,No,Yes,132.0,Worsen,Hindi,0
+38.0,Spotify,6.0,Yes,Yes,No,Yes,Yes,107.0,Improve,Tamil,1
+17.0,Spotify,4.0,No,Yes,No,Yes,Yes,135.0,Worsen,Punjabi,1
+25.0,Apple Music,2.0,No,No,No,No,Yes,171.0,Improve,Telugu,1
+20.0,Spotify,2.0,No,Yes,Yes,No,Yes,220.0,No effect,Hindi,0
+15.0,Spotify,2.0,Yes,No,No,No,No,171.0,No effect,Hindi,1
+16.0,Spotify,4.0,Yes,No,Yes,Yes,No,85.0,Improve,Telugu,1
+20.0,Spotify,2.0,Yes,Yes,No,No,Yes,174.0,Improve,Hindi,1
+23.0,Other streaming service,6.0,Yes,No,No,Yes,Yes,87.0,Improve,Hindi,0
+22.0,Spotify,3.0,Yes,No,No,Yes,Yes,77.0,Improve,Hindi,0
+15.0,I do not use a streaming service.,5.0,Yes,No,No,Yes,Yes,126.0,Improve,Punjabi,1
+17.0,I do not use a streaming service.,0.5,Yes,Yes,No,No,Yes,136.0,Improve,Punjabi,0
+22.0,YouTube Music,1.0,Yes,No,No,Yes,Yes,80.0,No effect,English,0
+21.0,Spotify,10.0,Yes,No,No,Yes,Yes,92.0,No effect,Hindi,1
+19.0,Spotify,2.0,Yes,No,No,No,Yes,120.0,No effect,Hindi,1
+32.0,Apple Music,0.5,No,No,No,Yes,No,,No effect,Hindi,0
+34.0,YouTube Music,1.0,No,No,No,No,Yes,138.0,Improve,Punjabi,1
+18.0,I do not use a streaming service.,2.0,Yes,Yes,No,Yes,Yes,150.0,Improve,Hindi,0
+21.0,Spotify,3.0,Yes,No,No,Yes,No,108.0,Improve,Telugu,0
+20.0,Spotify,3.0,No,No,No,Yes,Yes,119.0,Improve,Hindi,1
+19.0,Spotify,2.0,Yes,No,No,Yes,No,125.0,No effect,Hindi,1
+25.0,I do not use a streaming service.,1.0,No,No,No,No,Yes,,No effect,Hindi,1
+31.0,Spotify,8.0,Yes,Yes,No,Yes,Yes,,Improve,Punjabi,0
+21.0,Spotify,1.0,Yes,Yes,No,Yes,Yes,85.0,Improve,Telugu,0
+31.0,YouTube Music,1.0,No,No,Yes,Yes,Yes,113.0,Improve,Hindi,0
+20.0,YouTube Music,1.0,No,No,No,Yes,No,86.0,Improve,Punjabi,0
+19.0,Spotify,5.0,Yes,Yes,No,Yes,No,141.0,Improve,Hindi,0
+19.0,Other streaming service,5.0,Yes,No,No,Yes,Yes,97.0,Improve,Tamil,0
+23.0,Spotify,4.0,Yes,No,No,Yes,Yes,,Improve,Hindi,1
+24.0,I do not use a streaming service.,8.0,Yes,No,Yes,Yes,No,120.0,Improve,Hindi,0
+20.0,Other streaming service,0.7,No,No,No,No,No,144.0,Improve,Hindi,0
+15.0,Spotify,3.0,No,No,No,No,No,84.0,No effect,Hindi,0
+17.0,Spotify,7.0,Yes,No,No,No,Yes,84.0,Improve,Hindi,1
+20.0,I do not use a streaming service.,1.5,No,Yes,Yes,No,Yes,60.0,Worsen,Hindi,1
+14.0,Spotify,4.0,Yes,Yes,Yes,Yes,Yes,81.0,Improve,Hindi,1
+24.0,Spotify,4.0,Yes,No,No,Yes,Yes,150.0,Improve,English,1
+14.0,Other streaming service,10.0,Yes,No,Yes,No,No,95.0,Improve,Hindi,0
+23.0,Spotify,2.0,Yes,Yes,Yes,Yes,No,138.0,No effect,Punjabi,0
+28.0,Apple Music,2.0,Yes,No,No,No,No,,No effect,Hindi,1
+22.0,Spotify,6.0,Yes,No,No,Yes,Yes,140.0,Improve,Hindi,1
+25.0,Spotify,0.5,Yes,Yes,No,Yes,Yes,139.0,Improve,Hindi,1
+27.0,Spotify,2.0,Yes,Yes,Yes,Yes,Yes,100.0,Improve,English,1
+18.0,Spotify,5.0,Yes,No,No,Yes,Yes,,Improve,Punjabi,1
+17.0,Apple Music,3.0,Yes,Yes,Yes,Yes,No,120.0,Improve,Hindi,1
+23.0,Other streaming service,4.5,Yes,No,No,No,Yes,,No effect,Hindi,0
+40.0,Other streaming service,3.0,Yes,No,No,Yes,Yes,178.0,Improve,English,0
+27.0,Spotify,20.0,Yes,No,No,Yes,Yes,,No effect,Tamil,1
+18.0,Spotify,1.0,No,No,No,Yes,No,100.0,No effect,Tamil,0
+16.0,Spotify,2.5,No,Yes,Yes,Yes,No,110.0,Improve,Hindi,0
+18.0,Spotify,1.0,No,No,No,Yes,Yes,108.0,Improve,Punjabi,1
+23.0,Spotify,2.0,No,Yes,No,No,Yes,,No effect,Hindi,1
+15.0,I do not use a streaming service.,5.0,Yes,Yes,No,Yes,No,161.0,Improve,Hindi,0
+20.0,Apple Music,3.0,Yes,Yes,No,Yes,No,200.0,Improve,Hindi,1
+16.0,Spotify,3.0,Yes,Yes,No,Yes,No,,Improve,English,1
+16.0,Spotify,0.5,No,No,No,No,Yes,156.0,Improve,Telugu,1
+20.0,Apple Music,8.0,Yes,Yes,Yes,Yes,No,120.0,No effect,Punjabi,1
+33.0,Spotify,2.0,Yes,No,No,Yes,Yes,,Improve,Hindi,1
+22.0,Spotify,3.0,Yes,Yes,Yes,Yes,Yes,90.0,Improve,Hindi,1
+21.0,Spotify,3.0,Yes,No,No,Yes,Yes,85.0,Improve,Hindi,1
+21.0,Apple Music,5.0,Yes,Yes,No,Yes,Yes,171.0,Improve,Punjabi,1
+29.0,Apple Music,1.5,Yes,No,Yes,Yes,Yes,108.0,Improve,English,1
+56.0,I do not use a streaming service.,1.0,Yes,No,No,No,No,105.0,No effect,Hindi,0
+17.0,Spotify,2.0,Yes,Yes,No,Yes,No,76.0,Improve,Hindi,1
+22.0,Spotify,1.0,Yes,No,No,No,No,108.0,Improve,Hindi,1
+26.0,Spotify,4.0,Yes,No,No,Yes,Yes,140.0,No effect,Hindi,1
+30.0,Spotify,1.0,Yes,No,No,Yes,Yes,200.0,Improve,Hindi,0
+49.0,Spotify,2.0,Yes,No,No,Yes,No,147.0,No effect,Hindi,0
+22.0,Spotify,2.0,Yes,Yes,Yes,Yes,Yes,120.0,Improve,Hindi,0
+32.0,Spotify,2.0,No,No,No,Yes,No,158.0,Improve,Hindi,0
+32.0,I do not use a streaming service.,1.0,No,No,No,No,No,110.0,No effect,Tamil,1
+22.0,YouTube Music,6.0,Yes,No,No,Yes,No,103.0,Improve,Punjabi,0
+17.0,Spotify,2.0,Yes,No,No,Yes,Yes,93.0,Improve,Tamil,0
+21.0,Spotify,4.0,Yes,Yes,No,Yes,No,62.0,Improve,Hindi,1
+17.0,Spotify,1.5,Yes,No,No,Yes,Yes,180.0,No effect,Tamil,1
+25.0,Spotify,3.0,Yes,No,No,No,No,150.0,Improve,Hindi,1
+15.0,Spotify,4.0,Yes,No,Yes,Yes,No,105.0,Improve,Telugu,1
+13.0,Spotify,10.0,Yes,No,No,Yes,No,140.0,Improve,Telugu,1
+38.0,Spotify,3.0,Yes,No,No,No,Yes,,No effect,Punjabi,0
+23.0,Apple Music,3.0,No,No,No,Yes,No,161.0,Improve,Hindi,1
+17.0,Spotify,3.0,Yes,No,No,Yes,Yes,120.0,Improve,English,0
+59.0,YouTube Music,2.0,Yes,No,No,Yes,No,103.0,Improve,Tamil,0
+22.0,Spotify,2.0,Yes,Yes,Yes,Yes,No,72.0,Improve,English,0
+17.0,Apple Music,3.0,Yes,No,No,Yes,Yes,113.0,No effect,Telugu,0
+27.0,Spotify,2.0,No,No,No,No,No,120.0,No effect,Hindi,1
+23.0,Spotify,5.0,Yes,Yes,No,No,No,95.0,No effect,Tamil,1
+15.0,Spotify,6.0,Yes,No,No,No,No,97.0,Improve,Tamil,1
+22.0,Spotify,3.0,Yes,Yes,Yes,Yes,No,140.0,Improve,Telugu,0
+23.0,Spotify,5.0,Yes,No,No,Yes,Yes,120.0,Improve,English,1
+19.0,Spotify,5.0,Yes,No,No,Yes,Yes,118.0,Improve,English,1
+32.0,Spotify,6.0,Yes,No,No,No,No,91.0,Improve,Telugu,1
+40.0,Spotify,6.0,Yes,No,No,Yes,Yes,128.0,No effect,Hindi,1
+21.0,Spotify,3.0,Yes,No,No,Yes,No,86.0,Improve,Hindi,0
+21.0,Spotify,10.0,Yes,No,No,Yes,Yes,107.0,No effect,Tamil,1
+23.0,Spotify,2.0,Yes,No,No,Yes,Yes,180.0,Worsen,Hindi,1
+21.0,YouTube Music,2.0,Yes,No,No,No,Yes,,Improve,Hindi,1
+35.0,Spotify,3.0,No,Yes,No,Yes,No,0.0,No effect,Telugu,1
+18.0,Spotify,1.5,No,No,No,No,No,150.0,Improve,Telugu,0
+21.0,I do not use a streaming service.,10.0,Yes,No,No,Yes,No,112.0,Improve,Punjabi,1
+22.0,I do not use a streaming service.,2.0,Yes,No,No,No,Yes,,Improve,Hindi,0
+23.0,Spotify,3.0,Yes,Yes,Yes,Yes,Yes,66.0,Improve,Hindi,1
+13.0,Spotify,2.5,Yes,No,No,No,No,118.0,Improve,English,1
+19.0,Spotify,3.0,Yes,No,No,Yes,Yes,110.0,Improve,Punjabi,0
+33.0,YouTube Music,0.5,Yes,Yes,No,No,No,80.0,Improve,Hindi,1
+18.0,Spotify,16.0,Yes,No,Yes,Yes,Yes,90.0,Improve,Telugu,0
+17.0,YouTube Music,6.0,Yes,Yes,No,Yes,Yes,120.0,Improve,Telugu,0
+16.0,Spotify,3.0,Yes,No,No,Yes,Yes,100.0,Improve,Tamil,0
+18.0,YouTube Music,0.5,No,No,No,Yes,No,66.0,No effect,English,0
+19.0,Spotify,5.0,Yes,No,No,Yes,Yes,158.0,Improve,Hindi,0
+15.0,YouTube Music,2.0,No,Yes,No,Yes,Yes,105.0,No effect,Hindi,0
+17.0,Spotify,2.0,Yes,No,No,Yes,Yes,208.0,Improve,Punjabi,1
+25.0,Spotify,2.0,Yes,No,No,Yes,Yes,91.0,Improve,Punjabi,1
+24.0,Other streaming service,1.5,Yes,No,No,No,Yes,171.0,Improve,English,0
+23.0,Spotify,1.0,Yes,Yes,No,Yes,No,150.0,Improve,Punjabi,1
+16.0,Spotify,10.0,Yes,Yes,No,Yes,Yes,180.0,Improve,English,1
+25.0,YouTube Music,2.0,Yes,No,No,Yes,Yes,,Improve,English,1
+16.0,Spotify,15.0,Yes,Yes,Yes,Yes,No,85.0,Improve,Hindi,1
+20.0,I do not use a streaming service.,0.5,No,No,No,Yes,Yes,150.0,Improve,Punjabi,1
+17.0,Spotify,3.0,Yes,No,No,Yes,No,104.0,Improve,English,0
+29.0,I do not use a streaming service.,2.0,Yes,No,No,Yes,No,,Improve,Telugu,1
+20.0,Spotify,4.0,Yes,No,No,Yes,No,85.0,Improve,Punjabi,0
+16.0,Spotify,2.0,Yes,No,No,Yes,No,,Improve,Hindi,1
+21.0,Spotify,1.0,Yes,No,No,Yes,No,147.0,Improve,Telugu,1
+16.0,Spotify,24.0,Yes,No,No,Yes,Yes,120.0,Improve,Hindi,0
+43.0,Spotify,1.0,Yes,No,No,Yes,No,134.0,Improve,Hindi,0
+32.0,Pandora,2.0,Yes,Yes,No,Yes,No,,Improve,Hindi,1
+10.0,YouTube Music,2.0,Yes,Yes,No,Yes,Yes,112.0,Improve,Tamil,1
+27.0,Spotify,3.0,Yes,No,No,Yes,Yes,200.0,Improve,Punjabi,0
+24.0,Spotify,3.0,Yes,Yes,No,No,Yes,75.0,Improve,Hindi,1
+18.0,Spotify,2.0,Yes,No,No,Yes,Yes,20.0,Improve,Telugu,1
+17.0,Apple Music,7.0,Yes,No,No,No,No,140.0,Improve,English,1
+19.0,Spotify,6.0,Yes,No,No,Yes,No,111.0,Improve,Punjabi,0
+16.0,YouTube Music,3.0,Yes,No,No,Yes,Yes,150.0,Improve,Hindi,0
+64.0,Other streaming service,5.0,Yes,No,Yes,Yes,No,,Improve,Telugu,1
+33.0,Apple Music,4.0,Yes,Yes,Yes,Yes,Yes,114.0,Improve,Punjabi,1
+32.0,I do not use a streaming service.,3.0,Yes,Yes,No,No,Yes,93.0,No effect,Tamil,0
+15.0,Pandora,2.0,Yes,Yes,No,Yes,No,145.0,Improve,Hindi,0
+27.0,YouTube Music,3.0,Yes,No,No,Yes,Yes,100.0,Improve,Punjabi,0
+20.0,I do not use a streaming service.,2.0,Yes,No,No,Yes,No,114.0,No effect,Punjabi,0
+23.0,I do not use a streaming service.,2.0,Yes,No,No,Yes,Yes,109.0,Improve,Punjabi,0
+19.0,Apple Music,3.0,No,Yes,No,Yes,No,,Improve,English,1
+12.0,YouTube Music,2.0,Yes,Yes,Yes,No,No,,Improve,Hindi,0
+16.0,Other streaming service,3.0,Yes,Yes,Yes,No,No,72.0,No effect,Hindi,1
+17.0,Other streaming service,0.0,No,No,No,No,Yes,89.0,No effect,English,1
+14.0,Spotify,1.0,Yes,Yes,No,Yes,No,140.0,Improve,Punjabi,0
+32.0,Spotify,2.0,Yes,No,No,Yes,No,84.0,Improve,Punjabi,0
+20.0,Spotify,2.0,Yes,Yes,No,No,Yes,132.0,No effect,Hindi,0
+54.0,I do not use a streaming service.,6.0,Yes,No,No,No,No,,Improve,Telugu,0
+18.0,Spotify,5.0,Yes,No,No,Yes,Yes,124.0,Improve,Punjabi,1
+14.0,Spotify,2.0,Yes,Yes,No,Yes,No,181.0,Improve,Hindi,1
+13.0,Other streaming service,4.0,Yes,Yes,Yes,Yes,No,126.0,Improve,Punjabi,1
+19.0,Apple Music,8.0,Yes,No,Yes,Yes,No,109.0,Improve,Hindi,1
+14.0,Spotify,4.0,Yes,Yes,No,Yes,No,106.0,Improve,Tamil,0
+14.0,YouTube Music,1.5,No,Yes,No,Yes,Yes,140.0,Improve,Telugu,0
+18.0,Apple Music,2.0,Yes,Yes,No,Yes,Yes,170.0,Improve,Punjabi,0
+15.0,Spotify,5.0,Yes,No,No,Yes,Yes,87.0,Improve,Hindi,0
+24.0,YouTube Music,6.0,Yes,Yes,No,No,No,,No effect,Punjabi,0
+17.0,Apple Music,2.0,Yes,No,No,No,Yes,117.0,Improve,Hindi,1
+44.0,Spotify,2.0,No,No,No,Yes,No,105.0,Improve,Telugu,1
+23.0,Spotify,1.0,No,Yes,No,Yes,No,,Improve,Telugu,0
+21.0,Apple Music,1.0,No,No,No,No,No,160.0,Improve,Hindi,0
+57.0,Other streaming service,2.0,No,No,No,Yes,No,,Improve,Telugu,0
+23.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,141.0,No effect,Telugu,0
+18.0,Spotify,1.0,Yes,Yes,No,No,Yes,105.0,Improve,Hindi,1
+26.0,Spotify,14.0,Yes,No,No,Yes,Yes,158.0,No effect,Hindi,0
+13.0,YouTube Music,3.0,Yes,No,Yes,No,No,80.0,Improve,Hindi,1
+15.0,Spotify,3.0,Yes,Yes,Yes,Yes,No,118.0,Improve,Punjabi,1
+57.0,YouTube Music,2.0,Yes,Yes,Yes,Yes,No,125.0,No effect,Punjabi,0
+12.0,Spotify,0.5,Yes,Yes,Yes,Yes,Yes,109.0,Improve,Tamil,1
+26.0,Spotify,6.0,Yes,No,No,No,Yes,156.0,No effect,Hindi,1
+17.0,Spotify,1.0,Yes,Yes,No,No,No,105.0,Improve,Punjabi,1
+17.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,,Improve,Punjabi,1
+69.0,Pandora,4.0,Yes,Yes,Yes,Yes,Yes,72.0,Improve,Hindi,0
+17.0,Spotify,3.0,Yes,Yes,Yes,Yes,Yes,148.0,No effect,Hindi,1
+32.0,Spotify,12.0,Yes,Yes,Yes,Yes,Yes,200.0,Improve,Tamil,1
+22.0,YouTube Music,3.0,No,Yes,No,Yes,No,113.0,No effect,Telugu,1
+38.0,Spotify,1.0,No,No,No,Yes,Yes,191.0,Improve,Punjabi,0
+18.0,YouTube Music,10.0,Yes,No,No,Yes,No,140.0,Improve,Telugu,1
+14.0,Spotify,5.0,Yes,Yes,No,Yes,Yes,40.0,Improve,Tamil,0
+14.0,Other streaming service,0.5,Yes,Yes,No,Yes,Yes,173.0,Improve,Tamil,0
+19.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,180.0,Improve,Hindi,0
+20.0,YouTube Music,3.0,Yes,Yes,Yes,Yes,No,100.0,Improve,Punjabi,0
+18.0,Spotify,2.0,No,No,No,Yes,No,123.0,Improve,Punjabi,1
+30.0,Spotify,13.0,Yes,No,No,Yes,Yes,145.0,Improve,Tamil,1
+31.0,I do not use a streaming service.,4.0,Yes,Yes,No,Yes,Yes,55.0,Improve,Hindi,1
+72.0,Spotify,6.0,Yes,Yes,Yes,No,No,77.0,Improve,Telugu,0
+73.0,Pandora,3.0,Yes,No,No,Yes,Yes,4.0,Improve,Punjabi,0
+16.0,Spotify,4.0,Yes,No,No,Yes,Yes,150.0,Improve,Punjabi,1
+19.0,YouTube Music,3.0,No,Yes,No,Yes,Yes,73.0,Improve,Punjabi,0
+16.0,Spotify,2.0,Yes,Yes,No,No,No,155.0,Improve,Punjabi,1
+12.0,Spotify,2.0,Yes,Yes,Yes,Yes,Yes,,Improve,Hindi,1
+39.0,Spotify,1.0,Yes,No,No,Yes,Yes,89.0,Improve,Hindi,0
+15.0,Spotify,6.0,Yes,Yes,No,Yes,Yes,110.0,No effect,Punjabi,1
+14.0,Spotify,9.0,Yes,No,No,Yes,Yes,140.0,Improve,Punjabi,1
+21.0,Spotify,1.0,No,No,No,No,No,135.0,Improve,Hindi,0
+38.0,Apple Music,1.0,Yes,No,No,No,No,125.0,Worsen,Hindi,0
+23.0,Spotify,0.5,No,No,Yes,Yes,Yes,110.0,Improve,Punjabi,1
+16.0,Other streaming service,1.0,No,No,No,Yes,No,140.0,Improve,Hindi,1
+21.0,Apple Music,1.5,Yes,Yes,No,No,No,105.0,Improve,Hindi,0
+13.0,Spotify,6.0,Yes,No,No,Yes,No,112.0,Worsen,Hindi,0
+16.0,Spotify,4.0,Yes,No,No,Yes,No,96.0,Improve,Punjabi,0
+18.0,Spotify,6.0,Yes,No,Yes,Yes,No,,Improve,Punjabi,0
+21.0,Spotify,4.0,Yes,No,No,Yes,Yes,155.0,Improve,Hindi,1
+17.0,Spotify,1.5,Yes,No,No,Yes,Yes,174.0,No effect,Telugu,1
+24.0,Apple Music,2.0,Yes,No,No,Yes,Yes,93.0,No effect,Punjabi,1
+14.0,Apple Music,2.0,Yes,No,No,Yes,No,78.0,Improve,Hindi,0
+25.0,Spotify,4.0,Yes,No,No,Yes,Yes,,Improve,Hindi,0
+22.0,Spotify,3.0,Yes,No,No,Yes,Yes,174.0,Improve,Hindi,1
+20.0,I do not use a streaming service.,4.0,Yes,No,No,Yes,Yes,120.0,No effect,Telugu,0
+23.0,Spotify,2.0,Yes,No,No,No,No,75.0,Improve,Hindi,1
+61.0,Pandora,2.0,Yes,No,No,Yes,No,94.0,Improve,Punjabi,0
+24.0,Spotify,6.0,Yes,No,No,No,Yes,180.0,Improve,Hindi,1
+34.0,Spotify,0.0,No,Yes,No,No,Yes,115.0,Worsen,English,0
+49.0,Spotify,1.0,No,No,No,Yes,No,128.0,Improve,Punjabi,0
+33.0,I do not use a streaming service.,4.0,Yes,Yes,No,Yes,Yes,112.0,Improve,Punjabi,0
+22.0,I do not use a streaming service.,2.0,No,Yes,Yes,No,No,140.0,No effect,Punjabi,0
+38.0,Spotify,3.0,Yes,No,No,Yes,Yes,143.0,Improve,Tamil,0
+23.0,YouTube Music,4.0,No,No,No,Yes,No,72.0,No effect,Hindi,1
+34.0,I do not use a streaming service.,2.0,No,No,No,No,Yes,100.0,No effect,Punjabi,1
+40.0,Other streaming service,3.0,Yes,No,No,Yes,Yes,120.0,No effect,Hindi,0
+27.0,Spotify,1.0,No,No,No,Yes,No,,Improve,Hindi,0
+54.0,YouTube Music,10.0,Yes,No,No,Yes,No,,Improve,Punjabi,0
+16.0,Spotify,10.0,No,No,No,Yes,No,105.0,No effect,Hindi,0
+23.0,I do not use a streaming service.,10.0,Yes,No,No,No,Yes,119.0,Improve,Punjabi,1
+35.0,Spotify,4.0,No,No,No,Yes,No,,No effect,Hindi,0
+22.0,YouTube Music,4.0,Yes,No,No,Yes,Yes,137.0,Improve,Hindi,1
+41.0,Spotify,3.0,No,No,No,Yes,Yes,178.0,No effect,Punjabi,0
+63.0,Spotify,2.0,Yes,No,No,Yes,No,133.0,Improve,Punjabi,0
+28.0,Spotify,1.0,No,Yes,No,Yes,No,72.0,No effect,Hindi,0
+22.0,Spotify,6.0,Yes,Yes,No,Yes,No,,Improve,Hindi,0
+58.0,YouTube Music,1.0,Yes,No,No,Yes,No,133.0,Improve,Telugu,0
+58.0,YouTube Music,1.0,Yes,Yes,Yes,Yes,No,80.0,Improve,English,0
+67.0,Other streaming service,4.0,Yes,No,No,No,No,146.0,Improve,Hindi,1
+70.0,I do not use a streaming service.,2.0,Yes,No,No,No,No,88.0,Improve,Telugu,1
+60.0,YouTube Music,2.0,Yes,No,No,No,Yes,132.0,Improve,Hindi,0
+15.0,Spotify,2.0,Yes,Yes,Yes,Yes,No,102.0,Improve,English,1
+18.0,YouTube Music,6.0,Yes,No,No,Yes,Yes,91.0,Improve,Hindi,0
+58.0,Other streaming service,3.0,Yes,No,No,Yes,Yes,127.0,Improve,Hindi,0
+28.0,Other streaming service,1.0,Yes,No,No,Yes,Yes,82.0,Improve,Punjabi,0
+22.0,Spotify,4.0,Yes,Yes,No,Yes,No,141.0,Improve,Telugu,1
+49.0,YouTube Music,0.5,No,No,No,No,No,114.0,Improve,Telugu,0
+20.0,YouTube Music,8.0,Yes,No,No,Yes,Yes,148.0,Improve,Telugu,0
+55.0,YouTube Music,15.0,Yes,No,No,No,No,156.0,No effect,Punjabi,0
+48.0,Spotify,1.5,Yes,Yes,No,No,No,185.0,Improve,Hindi,1
+14.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,114.0,Improve,Hindi,0
+18.0,Spotify,3.0,Yes,Yes,No,Yes,Yes,120.0,Improve,Punjabi,1
+25.0,Spotify,1.0,Yes,No,No,Yes,Yes,80.0,Improve,English,1
+71.0,I do not use a streaming service.,0.25,Yes,No,No,No,Yes,,Improve,Telugu,0
+60.0,YouTube Music,1.0,No,Yes,Yes,No,No,,Improve,Hindi,0
+18.0,I do not use a streaming service.,1.0,Yes,No,Yes,No,No,116.0,No effect,English,0
+19.0,Spotify,5.0,Yes,No,No,No,Yes,99.0,Improve,Hindi,1
+74.0,I do not use a streaming service.,1.0,No,No,No,No,No,129.0,Improve,Tamil,0
+36.0,Pandora,1.0,Yes,No,No,No,No,131.0,Improve,Telugu,1
+14.0,Spotify,7.0,Yes,No,No,Yes,Yes,95.0,Improve,Hindi,0
+20.0,Spotify,3.0,No,Yes,Yes,Yes,Yes,80.0,Improve,Hindi,1
+15.0,Spotify,3.0,Yes,No,No,Yes,Yes,204.0,No effect,Telugu,0
+19.0,I do not use a streaming service.,7.0,Yes,No,No,No,No,128.0,Improve,Hindi,1
+29.0,Spotify,8.0,Yes,No,No,No,Yes,140.0,Improve,Hindi,0
+24.0,Spotify,2.0,Yes,No,No,Yes,No,159.0,Improve,Hindi,1
+18.0,Apple Music,2.0,Yes,No,No,Yes,Yes,104.0,Improve,Hindi,0
+21.0,Spotify,2.0,Yes,No,No,Yes,Yes,97.0,Improve,Hindi,1
+19.0,Spotify,2.0,Yes,No,No,Yes,Yes,80.0,Improve,Hindi,1
+25.0,Spotify,4.0,No,No,No,Yes,Yes,134.0,Improve,Punjabi,0
+28.0,Spotify,8.0,Yes,No,No,Yes,Yes,,No effect,Hindi,1
+27.0,Other streaming service,4.0,Yes,No,No,Yes,No,135.0,Improve,Punjabi,1
+60.0,Spotify,1.0,No,No,No,Yes,No,129.0,No effect,Hindi,0
+25.0,YouTube Music,5.0,No,No,No,No,Yes,,Improve,Punjabi,1
+60.0,Other streaming service,2.0,Yes,No,No,No,No,,Improve,Hindi,1
+43.0,Other streaming service,1.0,No,No,No,No,No,110.0,Improve,Tamil,0
+51.0,I do not use a streaming service.,5.0,Yes,No,No,No,No,180.0,No effect,Hindi,0
+63.0,YouTube Music,8.0,Yes,No,No,Yes,No,70.0,Improve,Hindi,0
+64.0,YouTube Music,2.0,Yes,No,No,No,No,,Improve,Hindi,0
+22.0,Spotify,2.0,Yes,No,No,No,No,,Improve,Hindi,1
+24.0,YouTube Music,1.0,Yes,No,No,No,Yes,103.0,Improve,Punjabi,1
+19.0,Spotify,8.0,Yes,No,No,Yes,Yes,99.0,Improve,Hindi,1
+56.0,Apple Music,8.0,Yes,No,No,Yes,No,117.0,Improve,Telugu,0
+20.0,Spotify,1.0,No,No,No,Yes,No,102.0,Improve,Tamil,0
+19.0,I do not use a streaming service.,1.0,Yes,Yes,No,No,No,127.0,Improve,Telugu,1
+20.0,Spotify,8.0,Yes,No,No,Yes,Yes,93.0,Improve,English,1
+60.0,Spotify,2.0,Yes,No,No,No,No,,Improve,Telugu,0
+65.0,Apple Music,6.0,Yes,No,No,No,Yes,146.0,No effect,Punjabi,0
+28.0,Spotify,3.0,No,Yes,Yes,Yes,Yes,0.0,Improve,English,1
+18.0,I do not use a streaming service.,4.0,Yes,Yes,No,No,Yes,150.0,Improve,Hindi,1
+42.0,Spotify,2.0,Yes,No,No,No,Yes,85.0,Improve,Tamil,0
+80.0,I do not use a streaming service.,3.0,Yes,Yes,No,No,No,122.0,Improve,Punjabi,1
+22.0,I do not use a streaming service.,4.0,No,No,Yes,Yes,No,,Improve,Hindi,1
+56.0,Other streaming service,2.0,No,No,No,Yes,Yes,120.0,No effect,Hindi,0
+20.0,YouTube Music,1.0,Yes,No,No,No,Yes,120.0,Improve,Hindi,1
+15.0,Spotify,1.0,Yes,No,No,Yes,Yes,150.0,Improve,Hindi,0
+67.0,I do not use a streaming service.,1.0,No,No,No,No,No,,Improve,Hindi,0
+57.0,Spotify,2.0,Yes,Yes,No,No,No,174.0,Improve,Hindi,0
+22.0,Apple Music,7.0,Yes,No,No,Yes,Yes,112.0,Improve,Hindi,1
+17.0,Spotify,5.0,Yes,No,No,Yes,Yes,180.0,Improve,Punjabi,0
+19.0,Spotify,3.0,Yes,No,No,No,No,121.0,No effect,Telugu,1
+50.0,I do not use a streaming service.,1.0,No,No,No,No,No,98.0,Improve,Punjabi,0
+24.0,Spotify,6.0,Yes,Yes,Yes,Yes,Yes,118.0,Improve,Punjabi,1
+67.0,Apple Music,2.0,No,No,No,Yes,No,,No effect,Hindi,1
+18.0,Other streaming service,3.0,Yes,Yes,Yes,Yes,No,135.0,Improve,Hindi,1
+20.0,Spotify,1.5,Yes,No,No,No,No,,Improve,Hindi,0
+15.0,Spotify,4.0,Yes,Yes,No,Yes,No,105.0,Improve,Punjabi,0
+17.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,122.0,Improve,Hindi,0
+32.0,YouTube Music,2.0,Yes,No,No,Yes,No,,Improve,Punjabi,0
+18.0,Spotify,2.0,No,No,No,Yes,Yes,136.0,Improve,Hindi,0
+18.0,Spotify,1.0,Yes,Yes,Yes,Yes,No,165.0,Improve,Hindi,0
+18.0,Spotify,3.0,Yes,No,No,Yes,Yes,130.0,Improve,Hindi,1
+19.0,Spotify,3.0,Yes,No,No,Yes,No,,Improve,Tamil,0
+18.0,Spotify,2.0,No,Yes,No,Yes,No,115.0,Improve,Telugu,1
+17.0,Other streaming service,6.0,Yes,No,Yes,Yes,No,140.0,Improve,Hindi,0
+34.0,Spotify,3.0,Yes,No,No,No,Yes,95.0,No effect,Hindi,0
+18.0,YouTube Music,3.0,Yes,No,No,No,No,150.0,No effect,Telugu,0
+18.0,Spotify,2.0,Yes,No,No,Yes,No,97.0,Improve,Punjabi,0
+22.0,I do not use a streaming service.,2.0,Yes,No,No,No,No,,Improve,Hindi,0
+18.0,Spotify,2.0,Yes,No,Yes,Yes,No,,Improve,Punjabi,0
+19.0,Spotify,3.0,Yes,No,No,Yes,Yes,122.0,No effect,Punjabi,0
+25.0,I do not use a streaming service.,4.0,Yes,No,No,Yes,Yes,150.0,No effect,Hindi,1
+17.0,Spotify,2.0,Yes,Yes,Yes,Yes,No,,Improve,Punjabi,0
+25.0,Spotify,5.0,Yes,Yes,No,Yes,No,125.0,Improve,Hindi,1
+18.0,Spotify,2.0,Yes,No,No,No,No,96.0,Improve,English,0
+21.0,Spotify,1.0,Yes,No,No,Yes,Yes,,Improve,Telugu,0
+24.0,Spotify,7.0,Yes,No,No,Yes,Yes,137.0,Improve,Hindi,1
+16.0,Spotify,3.0,Yes,Yes,No,No,Yes,174.0,Improve,Hindi,1
+18.0,Spotify,3.0,No,Yes,Yes,Yes,No,210.0,Improve,Punjabi,1
+18.0,Spotify,4.0,Yes,No,No,Yes,Yes,129.0,Improve,English,0
+16.0,Spotify,3.0,Yes,No,No,Yes,No,112.0,Improve,Punjabi,0
+68.0,Pandora,1.0,Yes,No,No,No,No,8.0,Improve,Hindi,1
+16.0,Spotify,7.0,Yes,No,No,Yes,No,999999999.0,No effect,Hindi,0
+21.0,Spotify,1.0,No,No,No,Yes,Yes,81.0,Improve,Telugu,0
+53.0,Pandora,4.0,Yes,No,No,Yes,Yes,153.0,Improve,Hindi,0
+29.0,Spotify,4.0,Yes,No,No,Yes,No,120.0,No effect,Hindi,0
+18.0,Spotify,3.0,Yes,No,No,Yes,Yes,89.0,No effect,Hindi,1
+29.0,Spotify,2.0,Yes,No,No,No,No,,Improve,English,1
+18.0,Spotify,4.0,Yes,Yes,No,Yes,Yes,169.0,Improve,Punjabi,0
+22.0,Spotify,5.0,Yes,No,No,Yes,Yes,138.0,No effect,Tamil,0
+19.0,Other streaming service,6.0,Yes,No,No,No,No,124.0,Improve,Hindi,0
+13.0,YouTube Music,1.0,Yes,No,No,Yes,No,,Improve,Punjabi,0
+26.0,I do not use a streaming service.,1.0,No,No,No,No,No,192.0,Improve,Punjabi,0
+14.0,Spotify,3.0,Yes,No,No,Yes,No,76.0,Worsen,Telugu,0
+27.0,Spotify,1.0,Yes,No,No,Yes,Yes,119.0,Improve,Hindi,1
+26.0,Spotify,8.0,No,No,No,No,Yes,172.0,No effect,English,1
+59.0,Other streaming service,1.0,No,Yes,No,No,No,79.0,Improve,Punjabi,0
+30.0,Spotify,8.0,Yes,Yes,Yes,Yes,No,112.0,Improve,English,1
+27.0,Spotify,1.0,Yes,No,No,Yes,Yes,130.0,Improve,Hindi,0
+18.0,Apple Music,1.0,No,Yes,No,Yes,Yes,116.0,Improve,Hindi,0
+23.0,I do not use a streaming service.,10.0,Yes,Yes,Yes,No,Yes,165.0,No effect,Hindi,0
+18.0,Spotify,10.0,Yes,Yes,Yes,Yes,No,110.0,Improve,Hindi,1
+40.0,Spotify,5.0,Yes,No,No,Yes,Yes,174.0,Improve,Hindi,0
+24.0,Spotify,10.0,Yes,No,No,Yes,Yes,180.0,Improve,Punjabi,1
+23.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,171.0,Improve,Hindi,1
+56.0,Other streaming service,6.0,Yes,No,No,No,No,,Improve,Hindi,0
+29.0,Other streaming service,2.0,Yes,No,No,Yes,No,70.0,No effect,English,1
+16.0,Other streaming service,3.0,Yes,No,No,No,Yes,120.0,Improve,Hindi,0
+18.0,Spotify,8.0,Yes,Yes,Yes,Yes,Yes,56.0,Improve,English,0
+21.0,Spotify,8.0,Yes,No,No,Yes,Yes,162.0,Improve,Punjabi,0
+32.0,Spotify,8.0,Yes,No,No,Yes,No,101.0,Improve,Telugu,1
+22.0,YouTube Music,8.0,Yes,Yes,No,Yes,No,110.0,Improve,Hindi,1
+17.0,Spotify,12.0,Yes,Yes,No,Yes,No,172.0,No effect,Telugu,0
+18.0,Spotify,6.0,Yes,No,No,Yes,Yes,90.0,Improve,Hindi,0
+18.0,Spotify,4.0,Yes,Yes,No,No,Yes,135.0,No effect,Punjabi,0
+24.0,Spotify,8.0,Yes,No,No,Yes,No,81.0,No effect,Hindi,0
+21.0,Spotify,2.0,No,No,No,No,No,170.0,No effect,Tamil,0
+46.0,I do not use a streaming service.,1.0,No,No,No,No,No,120.0,No effect,Punjabi,0
+18.0,Spotify,2.0,Yes,Yes,No,Yes,No,90.0,Improve,Telugu,0
+16.0,Spotify,3.0,Yes,Yes,No,Yes,Yes,115.0,Improve,Punjabi,0
+21.0,Spotify,1.0,Yes,No,No,Yes,Yes,,Improve,Telugu,0
+19.0,I do not use a streaming service.,0.0,No,No,No,Yes,Yes,,Improve,Telugu,0
+20.0,Spotify,2.0,Yes,Yes,Yes,Yes,Yes,,Improve,Hindi,1
+21.0,Other streaming service,0.1,Yes,Yes,No,No,Yes,,No effect,Hindi,1
+56.0,I do not use a streaming service.,2.0,Yes,No,No,No,Yes,220.0,No effect,Hindi,0
+21.0,Spotify,12.0,Yes,No,No,Yes,Yes,160.0,Worsen,English,1
+20.0,Spotify,1.0,Yes,No,No,Yes,No,121.0,Improve,Tamil,0
+21.0,Apple Music,1.0,Yes,No,No,No,No,105.0,Improve,Hindi,0
+25.0,Spotify,3.0,Yes,No,No,No,No,110.0,Improve,Punjabi,1
+33.0,Spotify,2.0,Yes,No,No,Yes,Yes,134.0,Improve,Hindi,0
+20.0,Spotify,2.0,Yes,No,No,Yes,Yes,148.0,Improve,Punjabi,1
+17.0,Spotify,3.0,Yes,Yes,No,Yes,No,120.0,No effect,Hindi,0
+24.0,YouTube Music,1.0,No,No,No,Yes,Yes,122.0,No effect,Hindi,0
+26.0,Spotify,3.0,Yes,Yes,Yes,Yes,Yes,90.0,Improve,Punjabi,0
+17.0,YouTube Music,3.0,Yes,No,No,No,No,122.0,Improve,Hindi,0
+16.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,129.0,Improve,English,1
+27.0,Spotify,8.0,Yes,No,No,Yes,No,132.0,No effect,English,0
+28.0,Spotify,4.0,Yes,No,No,Yes,Yes,178.0,Improve,Hindi,1
+48.0,I do not use a streaming service.,5.0,Yes,No,Yes,Yes,Yes,,Improve,Hindi,0
+19.0,Spotify,3.0,Yes,No,No,No,Yes,115.0,Improve,Hindi,1
+21.0,YouTube Music,4.0,Yes,No,No,Yes,Yes,137.0,Improve,Hindi,0
+21.0,I do not use a streaming service.,1.0,Yes,Yes,No,No,No,92.0,Improve,Hindi,0
+15.0,Spotify,4.0,Yes,No,No,Yes,Yes,140.0,Improve,English,1
+20.0,Spotify,1.0,No,No,No,Yes,Yes,130.0,Improve,Punjabi,1
+21.0,YouTube Music,2.0,Yes,Yes,No,No,Yes,,Improve,Hindi,0
+22.0,Spotify,6.0,Yes,No,No,Yes,No,63.0,Improve,Hindi,1
+22.0,Spotify,2.0,No,No,No,No,No,119.0,Improve,Hindi,1
+31.0,Spotify,1.0,Yes,No,No,Yes,No,,No effect,Hindi,1
+20.0,YouTube Music,4.0,Yes,Yes,No,Yes,No,180.0,Improve,Hindi,0
+49.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,No,No,68.0,Improve,Telugu,0
+42.0,Spotify,2.0,Yes,No,No,Yes,Yes,85.0,Improve,Telugu,1
+26.0,Spotify,2.0,Yes,No,No,Yes,Yes,128.0,No effect,Telugu,0
+17.0,Spotify,10.0,Yes,No,Yes,Yes,Yes,150.0,Improve,Telugu,1
+30.0,I do not use a streaming service.,0.0,No,No,No,No,No,0.0,Improve,English,1
+23.0,Spotify,6.0,Yes,No,No,Yes,Yes,92.0,No effect,Punjabi,0
+30.0,Apple Music,3.0,Yes,No,No,Yes,Yes,121.0,Improve,Hindi,1
+31.0,Spotify,2.0,Yes,No,No,No,Yes,155.0,Improve,Hindi,1
+42.0,Other streaming service,0.25,No,Yes,No,Yes,Yes,150.0,Improve,Tamil,1
+16.0,Other streaming service,4.0,Yes,No,No,Yes,Yes,624.0,Improve,Telugu,0
+34.0,YouTube Music,2.0,No,No,No,Yes,No,136.0,Improve,English,0
+21.0,YouTube Music,2.0,Yes,No,No,Yes,No,121.0,No effect,Telugu,0
+27.0,YouTube Music,3.0,Yes,No,No,No,No,113.0,Improve,Hindi,1
+18.0,Spotify,6.0,Yes,No,No,Yes,Yes,80.0,Improve,Telugu,1
+26.0,Spotify,3.0,No,No,No,Yes,No,140.0,No effect,Tamil,0
+37.0,Spotify,2.0,Yes,No,No,Yes,No,100.0,Worsen,Tamil,1
+26.0,Spotify,5.0,Yes,Yes,No,Yes,Yes,92.0,No effect,Punjabi,0
+19.0,Spotify,4.0,No,No,No,No,Yes,120.0,No effect,Punjabi,1
+22.0,Spotify,4.0,Yes,No,No,Yes,No,93.0,Improve,Hindi,1
+43.0,I do not use a streaming service.,0.0,No,No,No,No,No,,No effect,Hindi,0
+24.0,I do not use a streaming service.,12.0,Yes,Yes,Yes,Yes,No,136.0,Improve,English,1
+21.0,I do not use a streaming service.,0.5,No,No,No,No,No,108.0,Worsen,Hindi,1
+28.0,I do not use a streaming service.,1.0,Yes,No,No,No,No,147.0,Improve,Punjabi,0
+23.0,YouTube Music,3.0,Yes,No,No,Yes,Yes,93.0,No effect,Tamil,0
+20.0,Apple Music,12.0,No,No,No,Yes,Yes,98.0,Improve,Hindi,1
+17.0,Spotify,4.0,Yes,Yes,Yes,No,No,120.0,Improve,Telugu,0
+19.0,Spotify,3.0,Yes,No,No,No,No,130.0,Improve,Punjabi,0
+32.0,Spotify,1.0,Yes,No,No,Yes,Yes,218.0,Improve,Hindi,0
+18.0,YouTube Music,4.0,No,No,No,Yes,Yes,123.0,Improve,Tamil,1
+20.0,Other streaming service,2.0,Yes,Yes,Yes,Yes,No,135.0,No effect,English,0
+27.0,Spotify,3.0,Yes,No,No,Yes,Yes,105.0,Improve,Hindi,1
+15.0,Spotify,3.0,Yes,Yes,No,No,Yes,132.0,No effect,Punjabi,0
+26.0,Spotify,1.0,Yes,No,No,Yes,Yes,,No effect,Hindi,0
+24.0,Spotify,2.0,Yes,No,No,Yes,Yes,115.0,Improve,Telugu,0
+20.0,Spotify,1.0,Yes,No,No,Yes,Yes,120.0,No effect,Hindi,1
+21.0,YouTube Music,0.5,Yes,No,No,Yes,Yes,,Improve,Punjabi,0
+16.0,Spotify,2.0,Yes,No,No,No,No,149.0,Improve,Punjabi,0
+21.0,Spotify,11.0,Yes,Yes,Yes,Yes,Yes,125.0,Improve,Punjabi,0
+27.0,Spotify,10.0,Yes,Yes,Yes,Yes,Yes,132.0,Improve,Hindi,0
+17.0,Spotify,5.0,Yes,Yes,No,Yes,No,110.0,Improve,Hindi,1
+21.0,Spotify,1.5,Yes,Yes,No,Yes,Yes,110.0,No effect,Tamil,0
+17.0,Spotify,2.0,Yes,No,No,Yes,Yes,116.0,Improve,English,1
+21.0,Spotify,3.0,No,No,No,Yes,Yes,145.0,Improve,Telugu,1
+17.0,YouTube Music,2.0,No,No,Yes,Yes,No,,No effect,English,0
+36.0,YouTube Music,3.0,Yes,No,No,No,Yes,105.0,Improve,Hindi,0
+18.0,Spotify,4.0,No,No,No,Yes,Yes,80.0,Improve,Hindi,1
+18.0,Spotify,1.0,No,No,No,No,Yes,100.0,Improve,English,0
+18.0,Apple Music,5.0,Yes,Yes,No,Yes,Yes,73.0,Improve,Punjabi,1
+18.0,Apple Music,2.0,Yes,No,No,Yes,No,80.0,Improve,Telugu,1
+18.0,Spotify,7.0,Yes,No,No,Yes,Yes,,Improve,Tamil,0
+18.0,Spotify,2.0,Yes,No,No,Yes,Yes,,Improve,Hindi,0
+18.0,I do not use a streaming service.,1.0,Yes,No,No,No,No,120.0,No effect,Punjabi,0
+18.0,I do not use a streaming service.,1.0,No,Yes,No,No,No,117.0,No effect,Telugu,1
+18.0,Spotify,4.0,Yes,No,No,No,No,,No effect,Tamil,1
+20.0,Spotify,6.0,Yes,No,No,Yes,Yes,89.0,Improve,Hindi,0
+19.0,Spotify,3.0,Yes,No,No,Yes,No,115.0,Improve,Hindi,0
+17.0,Spotify,4.0,Yes,No,No,Yes,No,144.0,Improve,Telugu,1
+23.0,Spotify,4.0,Yes,No,No,Yes,Yes,105.0,Improve,Telugu,1
+18.0,YouTube Music,1.0,Yes,Yes,Yes,Yes,No,114.0,Improve,Telugu,1
+19.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,145.0,No effect,Hindi,0
+89.0,Spotify,24.0,Yes,Yes,Yes,No,No,143.0,No effect,Hindi,0
+20.0,Spotify,5.0,Yes,Yes,Yes,Yes,Yes,128.0,Improve,Punjabi,1
+16.0,Spotify,3.0,No,Yes,No,Yes,Yes,90.0,Improve,Punjabi,1
+17.0,Spotify,4.0,Yes,Yes,Yes,Yes,Yes,110.0,Improve,Punjabi,0
+16.0,Spotify,9.0,Yes,No,No,No,Yes,130.0,Improve,Hindi,1
+20.0,YouTube Music,1.0,Yes,No,No,No,Yes,,Worsen,English,1
+30.0,YouTube Music,1.0,Yes,Yes,No,Yes,Yes,115.0,Improve,Punjabi,1
+37.0,Spotify,2.0,Yes,No,No,Yes,No,186.0,Improve,Telugu,0
+44.0,YouTube Music,1.5,No,No,No,No,No,99.0,Improve,English,1
+21.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,150.0,Improve,Hindi,0
+19.0,Spotify,4.0,Yes,Yes,No,Yes,No,149.0,Improve,Telugu,1
+23.0,Spotify,1.0,Yes,Yes,No,Yes,Yes,,Improve,Hindi,1
+26.0,Spotify,1.0,No,No,No,Yes,No,120.0,Improve,Hindi,0
+18.0,Spotify,3.0,Yes,No,No,Yes,Yes,140.0,No effect,Telugu,0
+35.0,Spotify,4.0,Yes,Yes,Yes,Yes,No,90.0,Improve,Hindi,1
+16.0,Spotify,8.0,Yes,Yes,Yes,Yes,No,120.0,Improve,Hindi,1
+19.0,Spotify,5.0,Yes,No,No,Yes,Yes,210.0,Improve,Punjabi,1
+23.0,I do not use a streaming service.,3.0,Yes,No,No,No,No,,Improve,Hindi,1
+17.0,YouTube Music,8.0,Yes,No,No,Yes,Yes,95.0,No effect,Hindi,0
+29.0,Apple Music,1.0,No,No,No,Yes,No,163.0,No effect,Punjabi,1
+21.0,Spotify,4.0,Yes,Yes,Yes,No,No,97.0,Improve,Punjabi,0
+17.0,Spotify,1.0,No,No,No,Yes,Yes,137.0,Improve,Hindi,1
+23.0,Spotify,2.0,No,No,No,Yes,Yes,,No effect,Punjabi,0
+17.0,Spotify,1.0,Yes,Yes,No,Yes,Yes,70.0,No effect,Tamil,1
+22.0,Spotify,3.0,Yes,No,No,Yes,Yes,150.0,Improve,Hindi,1
+17.0,Spotify,5.0,Yes,No,No,Yes,No,168.0,Improve,Punjabi,1
+19.0,Spotify,5.0,Yes,Yes,No,Yes,Yes,163.0,Improve,English,1
+19.0,Spotify,4.0,Yes,No,No,Yes,Yes,140.0,Improve,English,1
+16.0,Spotify,6.0,Yes,No,No,Yes,Yes,105.0,Improve,Hindi,1
+19.0,Spotify,6.0,Yes,No,No,Yes,Yes,78.0,Improve,Telugu,0
+13.0,Spotify,1.0,Yes,No,No,Yes,No,128.0,Worsen,Hindi,1
+18.0,Apple Music,18.0,Yes,No,No,Yes,No,90.0,Improve,Telugu,1
+26.0,YouTube Music,1.0,Yes,No,No,Yes,Yes,136.0,No effect,English,0
+14.0,Other streaming service,7.0,Yes,Yes,No,Yes,No,108.0,Improve,Hindi,1
+21.0,I do not use a streaming service.,0.5,No,No,No,Yes,No,95.0,Improve,Telugu,0
+21.0,Spotify,2.0,Yes,No,No,Yes,Yes,147.0,Improve,English,1
+17.0,Spotify,2.0,Yes,Yes,No,Yes,Yes,120.0,Improve,Hindi,1
+18.0,Spotify,1.0,Yes,Yes,No,Yes,Yes,160.0,Improve,Punjabi,0
+19.0,Other streaming service,6.0,Yes,No,Yes,Yes,No,120.0,Improve,Telugu,0
+19.0,Spotify,5.0,Yes,Yes,No,No,No,170.0,Improve,Hindi,0
+29.0,YouTube Music,2.0,Yes,No,No,Yes,Yes,98.0,Improve,Punjabi,0
